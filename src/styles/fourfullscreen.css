@@ -1,0 +1,23 @@
+/* .Fourfullscreen{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+} */
+.four_bg_img{
+position: absolute;
+   
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.four_value{
+    position: absolute;
+    color:#ffffff;
+    z-index: 1;
+    font-weight: 800;
+    font-size: 20rem;
+    margin-left: 42%;
+    margin-top: 5%;
+}

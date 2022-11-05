@@ -1,0 +1,97 @@
+.bg_image{
+  background: url(../images/bg_img.png);
+  height: 100%;
+  user-select: none;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg_images{
+  background: url(../images/bg_square.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.team_name{
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+.team_logo{
+  border-radius: 50%;
+  height: 70px;
+}
+.team_runs{
+  font-size: 75px;
+  margin-left: 4%;
+  font-weight: 700;
+}
+.overs{
+  font-size: 55px;
+  font-weight: 500;
+  margin-bottom: -10%;
+}
+.overs_points{
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: -15%;
+}
+.over_div{
+  margin-right: 5%;
+  text-align: center;
+}
+.target_div{
+  text-align: center;
+}
+.target{
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: -5%;
+  text-transform: uppercase;
+}
+.lines{
+  font-weight: bold;
+  font-size: 20px;
+}
+.run_rate{
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: -5%;
+  text-transform: uppercase;
+}
+.striker{
+  height: 10%;
+  /* width: 100%; */
+  background-image: url('../images/bg_striker.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-transform: uppercase;
+}
+.name{
+  margin-left: 1%;
+  align-self: center;
+}
+.score{
+  margin-left: 5%;
+  align-self: center;
+  text-align: center;
+}
+.non_striker{
+  height: 10%;
+  /* width: 100%; */
+  background-image: url(../images/bg_non_striker.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-transform: uppercase;
+}
+.l_score{
+  height: 60px;
+  width: 8%;
+  text-align: center;
+  border-radius: 50%;
+  font-weight: 600;
+  padding-top: 1%;
+  font-size: 30px;
+}

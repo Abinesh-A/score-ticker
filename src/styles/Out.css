@@ -1,0 +1,29 @@
+.out{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 30%;
+    align-items: center;
+    
+}
+.out_img{
+    position: absolute;
+    background: white;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Out_value{
+    position: absolute;
+    color:#ffffff;
+    z-index: 1;
+    font-weight: 400;
+    font-size: 8rem;
+    margin-left: 40%;
+    margin-top: 18%;
+    text-transform: uppercase;
+    
+}

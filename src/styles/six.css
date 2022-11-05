@@ -1,0 +1,36 @@
+.six_img{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.Six{
+    position: absolute;
+    background: white;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Six_value{
+    position: absolute;
+    color:#ffffff;
+    z-index: 1;
+    font-weight: 800;
+    font-size: 20rem;
+    margin-left: 43%;
+    margin-top: 5%;
+}
+.container{
+    background-repeat: no-repeat;
+}
+/* .lottie_image{
+    background: no-repeat;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+
+
+} */
